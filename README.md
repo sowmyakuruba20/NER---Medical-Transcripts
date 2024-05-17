@@ -23,8 +23,7 @@ The following table lists the entities extracted from the NER process:
 
 | user_id | Race | Sex | Age | Medication | Disease_Disorder | Diagnostic_Procedure | Therapeutic_Procedure | Biological_Structure | Severity | Sign_Symptom | Family_History | History |
 |---------|------|-----|-----|------------|------------------|----------------------|-----------------------|----------------------|----------|--------------|----------------|---------|
-
-![Entities](images/entities.png)
+Refer to Medical_NER_DSRH.csv for the final structured data 
 
 ## 💊 SQL Table Structure Design
 
