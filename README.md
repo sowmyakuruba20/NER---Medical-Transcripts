@@ -1,4 +1,4 @@
-#🩺Transforming Patient Transcripts into Structured Data for Medical Research Analysis using Named Enity Recognition
+# 🩺 Transforming Patient Transcripts into Structured Data for Medical Research Analysis using Named Enity Recognition
 ## 🏥 Executive Summary
 
 The initiative focused on transforming unstructured patient transcript data into a structured SQL database format. By employing Named Entity Recognition (NER) technology, specifically the biomedical NER model trained on medical data, the project aimed to extract medically relevant entities. This approach enables efficient data analysis and supports the research objectives of the medical institute. The report delves into the methodologies employed, decision-making processes, and future enhancement suggestions.
